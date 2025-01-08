@@ -1,0 +1,23 @@
+body {
+    background-color: #e0f7fa; 
+    font-family: Arial, sans-serif; 
+}
+
+h1 {
+    text-align: center; 
+}
+
+.avatar {
+    display: block;
+    margin: 20px auto; 
+    width: 150px; 
+    border: 2px solid #000; 
+}
+
+.interests-list {
+    padding-left: 20px;
+}
+
+.interests-list li {
+    margin: 10px 0;
+}
